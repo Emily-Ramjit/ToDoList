@@ -133,30 +133,5 @@ int& Vector::operator[](unsigned int pos){
 		return arr_[pos];
 	}
 
-//function to find if data exists in a set 
-bool Vector::contains(const int& data)const{
-			return containsHelper(value, root);
-		}
-
-bool containsHelper(int value, TreeNode*node){
-		if(node==NULL)
-		{
-			return false;
-		}
-
-		if(node->data==value)
-		{
-			return true;
-		}
-		else if(node->data>value)
-		{
-			return containsHelper(value, node->left);
-		}
-		else if(node->data<value)
-		{
-			return containsHelper(value,node->right);
-		}
-
-	}
 
 #endif
