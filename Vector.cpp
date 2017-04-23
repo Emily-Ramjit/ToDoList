@@ -1,10 +1,5 @@
 /***************************************************************
 Title: Vector.cpp
-Author: Emily Ramjit
-Date Created: 2/13/2017
-Class: Spring 2017, CSCI 235, Mon & Wed 7:00pm-8:15pm
-Professor: Aarsh Vora 
-Purpose: Assignment 1
 Description: Vector.cpp implements the functions from it's header file, which includes it's destructor,constructor,
 returns the capacity/size of the vector, checks if the vector is empty, push_back function which adds elements to the 
 end of the vector, removes elements, empties the vector, sets an element to a position if the element is valid, resizes the vector 
