@@ -1,10 +1,5 @@
 /***************************************************************
 Title: Vector.h
-Author: Emily Ramjit
-Date Created: 2/13/2017
-Class: Spring 2017, CSCI 235, Mon & Wed 7:00pm-8:15pm
-Professor: Aarsh Vora 
-Purpose: Assignment 1
 Description: Vector.h contains the Vector class and it's function prototypes that will be implemented in the Vector.cpp file as well as the
 private data members such as the dynamic array of ints, size, capacity, and resize function. It includes the Vector's destructor,constructor,
 functions for returning the capacity/size of the vector, checking if the vector is empty, adding elements to the 
