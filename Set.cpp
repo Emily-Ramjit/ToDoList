@@ -1,10 +1,5 @@
 /***************************************************************
 Title: Set.cpp
-Author: Emily Ramjit
-Date Created: 2/13/2017
-Class: Spring 2017, CSCI 235, Mon & Wed 7:00pm-8:15pm
-Professor: Aarsh Vora 
-Purpose: Assignment 1
 Description: Set.cpp implements the functions from the Set.h file. It uses the instance of the Vector class to implement these functions that were
 previously implemented in the Vector.cpp file. The functions include checking the size of the set, checking if the set is empty, inserting an element
 into the set if it does not exist, removes elements from the set, checks if the element exists, and empties the set. 
